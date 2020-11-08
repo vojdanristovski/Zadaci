@@ -65,6 +65,7 @@ class WeatherStation{
         });
         if (!ignore) {
             this.measurmentList.removeIf(measurment -> {
+                // parsiranje na Date vo LoalDateTime
                 LocalDateTime ldt = LocalDateTime.ofInstant(measurment.getDate().toInstant(), ZoneId.of("GMT"));
                 LocalDateTime ldt1 = LocalDateTime.ofInstant(date.toInstant(), ZoneId.of("GMT"));
                 return ldt.plusDays(days).isBefore(ldt1);
