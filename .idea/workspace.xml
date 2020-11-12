@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f484320-13d6-4af6-b8bf-0446779685e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/excercises/firstMidterm/GenericFractionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/firstMidterm/TripleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excercises/firstMidterm/MinAndMax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/excercises/firstMidterm/TimesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excercises/firstMidterm/TimesTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +56,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MinAndMax">
+    <configuration name="MinAndMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excercises.firstMidterm.MinAndMax" />
+      <module name="AdvancedProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excercises.firstMidterm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WeatherStationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="excercises.firstMidterm.WeatherStationTest" />
       <module name="AdvancedProgramming" />
@@ -72,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinAndMax" />
         <item itemvalue="Application.WeatherStationTest" />
       </list>
     </recent_temporary>
@@ -95,7 +109,9 @@
       <workItem from="1605008782729" duration="28000" />
       <workItem from="1605029019682" duration="8079000" />
       <workItem from="1605098370035" duration="289000" />
-      <workItem from="1605134544315" duration="3235000" />
+      <workItem from="1605134544315" duration="4514000" />
+      <workItem from="1605140664069" duration="30000" />
+      <workItem from="1605219604066" duration="4315000" />
     </task>
     <servers />
   </component>
@@ -114,5 +130,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/excercises/firstMidterm/MinAndMax.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
