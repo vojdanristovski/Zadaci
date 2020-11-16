@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f484320-13d6-4af6-b8bf-0446779685e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/excercises/firstMidterm/MinAndMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/auditoriskiKolokviumski/EvaluatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/excercises/firstMidterm/TimesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excercises/firstMidterm/TimesTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +110,9 @@
       <workItem from="1605098370035" duration="289000" />
       <workItem from="1605134544315" duration="4514000" />
       <workItem from="1605140664069" duration="30000" />
-      <workItem from="1605219604066" duration="4315000" />
+      <workItem from="1605219604066" duration="4913000" />
+      <workItem from="1605273282128" duration="62000" />
+      <workItem from="1605553616174" duration="1600000" />
     </task>
     <servers />
   </component>
@@ -130,16 +131,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/excercises/firstMidterm/MinAndMax.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
